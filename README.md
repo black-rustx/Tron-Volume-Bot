@@ -1,7 +1,3 @@
-Here's an improved and more visually appealing version of your README file, incorporating emojis and formatting for clarity:  
-
----
-
 # 🦖 **Tron Volume Bot**  
 
 ## 🚀 Quick Setup  
